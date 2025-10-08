@@ -1,0 +1,12 @@
+title: 通信原理大观
+description: 基于 BiliNote 整理的杨鸿文老师课程笔记
+theme: minima # 使用 GitHub 内置的简洁主题
+
+# 使用 GitHub Flavored Markdown，保证表格正常渲染
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# 让 Jekyll 不忽略下划线开头的文件夹（比如 _includes）
+include:
+  - _includes
